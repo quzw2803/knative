@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/knative.dev/serving/cmd/activator@sha256:c51023e62e351d5910f92ee941b4929eb82539e62636dd3ccb4a016d73e86b2e
-MAINTAINER doop
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/activator@sha256:d253dc4c6cfa3ea0647a37e53fff1fe1f8b97a19699f6ec60deee99bcb9202a2
+MAINTAINER quzw
