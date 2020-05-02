@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler@sha256:998a405454832cda18a4bf956d26d610a2df2130a39b834b597a89a3153c8c15
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler@sha256:bc6e734197489da1e5b8e409b731d6faa296cb2a928c991424ed2fe725770424
 MAINTAINER doop
