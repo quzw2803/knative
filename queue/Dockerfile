@@ -1,0 +1,2 @@
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/queue@sha256:317c90eaae2c473db96089588e6a91c14f2d9acef457b9d1071bbe120621138d
+MAINTAINER quzw
